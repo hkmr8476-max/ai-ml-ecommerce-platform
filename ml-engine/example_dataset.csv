@@ -1,0 +1,5 @@
+user_id,product_id,event_type
+1,101,view
+1,101,purchase
+2,202,cart
+3,101,view
